@@ -4,7 +4,7 @@ Max, 27 y.o. Development, cooking, traveling.
 
 ---
 
-## Work
+## 👨‍💻 Work
 Yandex LLC, Tech Manager, 2 years of work
 
 - Microservices
