@@ -43,7 +43,7 @@ Yandex LLC, Tech Manager, 2 years of work
     - FastAPI, React
     - [Repo](https://github.com/speakid/)
 - ⚙️ Tilda acquiring instrument for making receipts
-    - Private, refactoring
+    - [Repo](https://github.com/GOBIGAGENCYORG), refactoring
 
 ✅ - Completed 
 
